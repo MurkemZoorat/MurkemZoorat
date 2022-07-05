@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MurkemZoorat
+- 👀 I’m interested in learning how to code for a minecraft realm and try to put the skills I learn for other players enjoyment...
+- 🌱 I’m currently learning how coding works...
+- 📫 How to reach me on Discord MurkemZoorat#1610 and if you do do wish to contact me, let me know what its about...
+
+<!---
+MurkemZoorat/MurkemZoorat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
